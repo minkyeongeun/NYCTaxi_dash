@@ -1,4 +1,6 @@
 # NYCTaxi_dash
-dash
 
-asdfasdfadsf
+대시보드 만들기
+- 자료는 NYCTaxi 
+
+
